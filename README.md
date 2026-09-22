@@ -31,9 +31,11 @@ cd customer-trends-data-analysis-SQL-Python-PowerBI
 📊 Key Insights at a GlanceGender & Revenue: Male shoppers generated higher total revenue ($157,890) compared to female shoppers ($75,191).
 
  Subscription Gap: 73% of customers are non-subscribers, presenting a substantial growth opportunity to target high-frequency buyers with loyalty perks.   Discount Sensitivity: Top products like hats, sneakers, and coats experience discount rates near 50%, highlighting the need for careful margin management[cite: 1, 4].
+ 
 📜 License
  MIT
  — Feel free to fork, star, and use this project for your portfolio.
+ 
 👨‍💻 Author
 Piash Barua
 Executive Project Manager & Production Executive | Data Analytics & Cybersecurity Enthusiast
